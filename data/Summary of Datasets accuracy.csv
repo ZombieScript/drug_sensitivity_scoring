@@ -1,0 +1,25 @@
+﻿Dataset,Cell_Lines,Drugs,Actual_Effect,Predictive_Accuracy,Ranking,Relative_Ranking,Relative_Ranking(%),
+GSE129221,PC9,Gefitinib,Resistance,Yes,41,41/118,34.75 ,
+,PC9,Apatinib,Sensitive,No,"Haven't 
+Seen","Haven't 
+Seen",NA,
+GSE200029,T47D,Tamoxifen,Resistance,Yes,6,6/142,4.23 ,
+GSE200029,T47D,Erdatinib,Sensitive,Yes,41,41/142,28.87 ,
+GSE268699,MCF7,Palbociclib,Resistance,Yes,47,47/56,83.93 ,
+GSE268699,MCF7,Fulvestrant,Resistance,Yes,2,2/162,1.23 ,
+,T47D,Palbociclib,Resistance,No,42,42/71,59.15 ,
+,T47D,Fulvestrant,Resistance,No,"Haven't 
+Seen","Haven't 
+Seen",NA,
+GSE62504,HCC827-BR1,Afatinib,Resistance,Yes,4,4/130,3.08 ,
+GSE62504,HCC827-BR1,Dasatinib,Sensitive,Yes,4,4/130,3.08 ,
+GSE62504,HCC827-BR2,Afatinib,Resistance,Yes,6,6/130,4.62 ,
+GSE62504,HCC827-BR2,Dasatinib,Sensitive,No,59,59/130,45.38 ,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
